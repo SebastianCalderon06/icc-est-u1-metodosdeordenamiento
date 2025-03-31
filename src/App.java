@@ -12,7 +12,7 @@ public class App {
         boolean continuar =true;
 
         while (continuar) {
-            int [] arreglo = {10,9,21,5,15,2,-1,0};
+            int [] arreglo = {12, -7, 25, 0, -15, 33, 19, -22, 5, 48, -3, 27, -30, 14, 7, -1, 41, 20, -11, 8};
             System.out.println("\nSeleccione el método de ordenamiento");
             System.out.println("1 burbuja");
             System.out.println("2 selección");
